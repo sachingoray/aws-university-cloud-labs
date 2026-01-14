@@ -37,6 +37,7 @@ This project focuses on security,role-based access, and real-world cloud practic
 
 Screenshot
 Homepage of Admin:
+![Loading](screenshot/admin-homepage-2.png)
  
 Policy create by admin for all the users: 
 
